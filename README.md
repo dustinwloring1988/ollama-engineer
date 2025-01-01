@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains a powerful coding assistant application that integrates with Ollama to process user conversations and generate structured JSON responses. Through a simple command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.
+This repository contains a powerful coding assistant application that integrates with Ollama to process user conversations and generate structured JSON responses. Through a simple command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time. While making this fork of DeepSeek Engineer our goal was to reduce the dependences and to be able to use any self hosted model while not adding more code then nessary to achive this result.
 
 ## Requirements
 
