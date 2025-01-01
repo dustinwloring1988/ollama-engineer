@@ -12,8 +12,7 @@ This repository contains a powerful coding assistant application that integrates
 ## Requirements
 
 - Python 3.8 or higher
-- Ollama installed and running locally
-- Available disk space for the Ollama model (~8GB)
+- Ollama installed and running with a model
 
 ## Key Features
 
