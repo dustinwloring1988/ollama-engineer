@@ -3,6 +3,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+![image](https://github.com/user-attachments/assets/cc1b3a1b-8a98-49cf-af26-d3c4606d0779)
+
 ## Overview
 
 This repository contains a powerful coding assistant application that integrates with Ollama to process user conversations and generate structured JSON responses. Through a simple command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.
